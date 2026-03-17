@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-17T23:20:16 IST" name="Default suite" finished-at="2026-03-17T23:20:37 IST" duration-ms="20639">
+    <groups>
+    </groups>
+    <test started-at="2026-03-17T23:20:16 IST" name="Default test" finished-at="2026-03-17T23:20:37 IST" duration-ms="20639">
+      <class name="tests.AddToCartTest">
+        <test-method is-config="true" signature="setupReport()[pri:0, instance:tests.AddToCartTest@54d9d12d]" started-at="2026-03-17T23:20:16 IST" name="setupReport" finished-at="2026-03-17T23:20:16 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:tests.AddToCartTest@54d9d12d]" started-at="2026-03-17T23:20:17 IST" name="setup" finished-at="2026-03-17T23:20:18 IST" duration-ms="1165" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.AddToCartTest.completeOrderTest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="completeOrderTest()[pri:0, instance:tests.AddToCartTest@54d9d12d]" started-at="2026-03-17T23:20:18 IST" name="completeOrderTest" finished-at="2026-03-17T23:20:37 IST" duration-ms="19301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completeOrderTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.AddToCartTest@54d9d12d]" started-at="2026-03-17T23:20:37 IST" name="tearDown" finished-at="2026-03-17T23:20:37 IST" duration-ms="146" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=completeOrderTest status=SUCCESS method=AddToCartTest.completeOrderTest()[pri:0, instance:tests.AddToCartTest@54d9d12d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:tests.AddToCartTest@54d9d12d]" started-at="2026-03-17T23:20:37 IST" name="flushReport" finished-at="2026-03-17T23:20:37 IST" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+      </class> <!-- tests.AddToCartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
