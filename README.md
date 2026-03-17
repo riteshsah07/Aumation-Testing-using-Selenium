@@ -3,7 +3,7 @@ About the Project
 
 This project is a basic automation testing setup built using Selenium. The main purpose of this project is to understand how automated testing works in real-world applications. Instead of manually testing a website again and again, Selenium is used to automate the process.
 
-Tech Stack
+## Tech Stack
 
 Selenium WebDriver
 
@@ -15,7 +15,7 @@ Maven or Gradle (if used)
 
 Git and GitHub
 
-Features
+## Features
 
 Automates browser actions
 
@@ -25,7 +25,7 @@ Simple and easy to understand structure
 
 Helps in learning automation testing concepts
 
-How to Run
+## How to Run
 
 Clone the repository
 
@@ -35,7 +35,7 @@ Install required dependencies
 
 Run the test file
 
-What I Learned
+## What I Learned
 
 Basics of automation testing
 
@@ -45,7 +45,7 @@ Writing and executing test cases
 
 Importance of reducing manual testing effort
 
-Future Improvements
+## Future Improvements
 
 Add more real-world test scenarios
 
@@ -53,6 +53,6 @@ Integrate CI/CD using Jenkins or GitHub Actions
 
 Add test reports and logging
 
-Final Note
+## Final Note
 
 This project is created for learning purposes and to build a strong foundation in automation testing. I will continue to improve it by adding more features and better practices.
